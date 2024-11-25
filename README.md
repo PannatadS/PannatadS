@@ -1,11 +1,10 @@
 # Hi, I'm Pannatad Soisup (Eing)
 
 ## About me
-
 Currently, I work as an **ERP Support Consultant**, where I assist users in navigating complex systems and ensure smooth application functionality. I'm now transitioning into a career as a **Java Developer**, driven by my passion for backend development and solving technical challenges.
 
-## I'm learning 
- - Expert-Programming-Tutor Java Bootcamp 
+## I'm learning 🏫
+ - Expert-Programming-Tutor Java Bootcamp 🏕️
  - Youtube 
  ([TPCoder](https://www.youtube.com/@tpcoder), [PracertCBS](https://www.youtube.com/@prasertcbs), [Kongruksiam](https://www.youtube.com/@KongRuksiamOfficial), [Yhib Ma Sorn](https://www.youtube.com/@yhibmasorn967))
 
